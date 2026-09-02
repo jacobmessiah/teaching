@@ -148,20 +148,21 @@ nav {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 15px;
+    gap: 35px;
     margin-top: 40px;
 }
 
 .hero-footer .brand-container {
     display: flex;
     align-items: center;
-    gap: 80px;
+    gap: 100px;
 }
 
 .hero-footer .brand-container img {
     max-width: 120px;
     width: auto;
-    height: 35px;
+    height: 25px;
+    filter: brightness(0) grayscale(100%);
 }
 
 /* Hero Footer ----------------------  End */
