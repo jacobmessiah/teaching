@@ -156,17 +156,16 @@ nav {
     display: flex;
     align-items: center;
     gap: 100px;
-}
 
-.hero-footer .brand-container img {
+}
+                                                                                                                                                
+
+.hero-footer .brand-container svg {
     max-width: 120px;
     width: auto;
     height: 25px;
-    filter: brightness(0) grayscale(100%);
+    fill: rgb(39, 38, 38);
 }
-
-/* Hero Footer ----------------------  End */
-
 
 
 
